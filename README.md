@@ -9,7 +9,7 @@ This app allows users to check the weather by city name, displaying essential we
 -  **Humidity**: Displays the percentage of humidity in the air.
 - **Wind Speed**: Provides the current wind speed in km/h or mph.
 - **Weather Condition**: Describes if it’s sunny, cloudy, rainy, etc.
-+ **Dynamic Icons and Backgrounds**: The app changes its background and icons based on the weather condition for a more immersive experience.
+➣ **Dynamic Icons and Backgrounds**: The app changes its background and icons based on the weather condition for a more immersive experience.
 
 ## 🔧 Technologies Used
 | Technology | Purpose                   |
