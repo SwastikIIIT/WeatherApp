@@ -4,7 +4,7 @@ This app allows users to check the weather by city name, displaying essential we
 
 ## 🌐 Features
 - **City-Based Weather Tracking**: Users can enter a city name to get current weather data.
-- **Real-Time Weather Information**:
++ **Real-Time Weather Information**:
  ⇒ **Temperature**: Shows the current temperature in Celsius or Fahrenheit.
  ⇒ **Humidity**: Displays the percentage of humidity in the air.
  ⇒ **Wind Speed**: Provides the current wind speed in km/h or mph.
