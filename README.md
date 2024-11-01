@@ -21,4 +21,5 @@ This app allows users to check the weather by city name, displaying essential we
 | JavaScript | Functionality and API calls |
 
 ## 📸 Screenshots
-![Weather App Screenshot](screenshot.png)
+![Weather App Screenshot](<img width="416" alt="image" src="https://github.com/user-attachments/assets/e5fc655b-3a67-4443-a78d-0a9bc2b76892">
+)
