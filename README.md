@@ -1,8 +1,8 @@
-#Weather App ☀️🌧️
+# Weather App ☀️🌧️
 A ***simple and elegant weather app***  app built with HTML, CSS, and JavaScript.  
 This app allows users to check the weather by city name, displaying essential weather details such as temperature, humidity, wind speed, and current weather conditions (e.g., sunny, cloudy).
 
-##🌐 Features
+## 🌐 Features
 +**City-Based Weather Tracking**: Users can enter a city name to get current weather data.
 +**Real-Time Weather Information**:
 -**Temperature**: Shows the current temperature in Celsius or Fahrenheit.
